@@ -137,6 +137,7 @@
     "r": "r",
     "rb": "ruby",
     "rebar.config": "erlang",
+    "res": "rescript",
     "rkt": "code",
     "rs": "rust",
     "rtf": "document",
@@ -311,6 +312,9 @@
     },
     "react": {
       "icon": "icons/file_icons/react.svg"
+    },
+    "rescript": {
+      "icon": "icons/file_icons/rescript.svg"
     },
     "ruby": {
       "icon": "icons/file_icons/ruby.svg"
